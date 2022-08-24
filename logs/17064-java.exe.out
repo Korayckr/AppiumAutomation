@@ -1,0 +1,87 @@
+{"logLevel":"debug","message":"multithreading is set to false"}
+{"logLevel":"debug","message":"Using reflection to scan dependencies for gauge implementations..."}
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+log4j:WARN No appenders could be found for logger (io.grpc.netty.shaded.io.netty.util.internal.logging.InternalLoggerFactory).
+log4j:WARN Please initialize the log4j system properly.
+log4j:WARN See http://logging.apache.org/log4j/1.2/faq.html#noconfig for more info.
+{"logLevel":"debug","message":"gauge-java took 1286milliseconds to load and scan. This should be less than 'runner_connection_timeout' config value."}
+{"logLevel":"debug","message":"run 'gauge config runner_connection_timeout' and verify that it is < 1286"}
+{"logLevel":"debug","message":"starting gRPC server..."}
+{"logLevel":"debug","message":"started gRPC server on port 63612"}
+{"logLevel":"info","message":"Listening on port:63612"}
+{"logLevel":"debug","message":"Scanning packages for steps"}
+{"logLevel":"debug","message":"Comparing 'test.OnayPageTest.clickOn' and 'test.OnayPageTest.clickOn'"}
+{"logLevel":"debug","message":"Found Onayla butonuna týklanýr. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.ParaYatirmaMenuTest.clickAlnHesap' and 'test.ParaYatirmaMenuTest.clickAlnHesap'"}
+{"logLevel":"debug","message":"Found Paranýn Alýnacaðý Hesap Komponenti Týklanýr in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.LoginPageTest.fillPasswordField' and 'test.LoginPageTest.fillPasswordField'"}
+{"logLevel":"debug","message":"Found Kullanýcý no girilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.LoginPageTest.clickDevamBtn' and 'test.LoginPageTest.clickDevamBtn'"}
+{"logLevel":"debug","message":"Found Devam butonu týklandý. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.YatirimMenuTest.clickParaYatýr' and 'test.YatirimMenuTest.clickParaYatýr'"}
+{"logLevel":"debug","message":"Found user clicks Para Yatirma in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.LoginPageTest.clickBtn' and 'test.LoginPageTest.clickBtn'"}
+{"logLevel":"debug","message":"Found Aktivasyonsuz giris butonuna týklanýr. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.ParaYatirmaMenuTest.clickDevam' and 'test.ParaYatirmaMenuTest.clickDevam'"}
+{"logLevel":"debug","message":"Found Devam butonu týklanýr. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'base.BaseTest.turnBack' and 'base.BaseTest.turnBack'"}
+{"logLevel":"debug","message":"Found Turn Back in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.TumIslemlerMenuTest.clickYatýrým' and 'test.TumIslemlerMenuTest.clickYatýrým'"}
+{"logLevel":"debug","message":"Found user clicks Yatirim menu in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.ParaYatirmaMenuTest.sendAciklamaA' and 'test.ParaYatirmaMenuTest.sendAciklamaA'"}
+{"logLevel":"debug","message":"Found Açýklama girilir in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.ParaYatirmaMenuTest.clickVadHesap' and 'test.ParaYatirmaMenuTest.clickVadHesap'"}
+{"logLevel":"debug","message":"Found Vadesiz hesaplardan seçim yapýlýr. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.ParaYatirmaMenuTest.clickTutar' and 'test.ParaYatirmaMenuTest.clickTutar'"}
+{"logLevel":"debug","message":"Found Tutar alaný týklanýr. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'base.BaseTest.waitOneSec' and 'base.BaseTest.waitOneSec'"}
+{"logLevel":"debug","message":"Found {} saniye bekle in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.ParaYatirmaMenuTest.clickAktHesap' and 'test.ParaYatirmaMenuTest.clickAktHesap'"}
+{"logLevel":"debug","message":"Found Paranýn Aktarýlacaðý Hesap alaný týklanýr. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.ParaYatirmaMenuTest.clickYatHesap' and 'test.ParaYatirmaMenuTest.clickYatHesap'"}
+{"logLevel":"debug","message":"Found Yatýrým hesaplarýndan biri týklanýr. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.ParaYatirmaMenuTest.sendTutarBox' and 'test.ParaYatirmaMenuTest.sendTutarBox'"}
+{"logLevel":"debug","message":"Found Tutar girilir. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.OnayKontrolTest.checkIsVisible' and 'test.OnayKontrolTest.checkIsVisible'"}
+{"logLevel":"debug","message":"Found Onaylandý mý kontrol eder. in current project scope."}
+{"logLevel":"debug","message":"Comparing 'test.MainPageTest.clickTumIslemler' and 'test.MainPageTest.clickTumIslemler'"}
+{"logLevel":"debug","message":"Found User Clicks Tum Islemler Tab in current project scope."}
+{"logLevel":"debug","message":"Scanning packages for hooks"}
+{"logLevel":"debug","message":"Scanned steps (using static parsing + reflections): "}
+{"logLevel":"debug","message":"\tParanýn Alýnacaðý Hesap Komponenti Týklanýr : public void clickAlnHesap()"}
+{"logLevel":"debug","message":"\tKullanýcý no girilir : public void fillPasswordField()"}
+{"logLevel":"debug","message":"\tUser Clicks Tum Islemler Tab : public void clickTumIslemler()"}
+{"logLevel":"debug","message":"\tParanýn Aktarýlacaðý Hesap alaný týklanýr. : public void clickAktHesap()"}
+{"logLevel":"debug","message":"\tDevam butonu týklanýr. : public void clickDevam()"}
+{"logLevel":"debug","message":"\tuser clicks Yatirim menu : public void clickYatýrým()"}
+{"logLevel":"debug","message":"\tDevam butonu týklandý. : public void clickDevamBtn()"}
+{"logLevel":"debug","message":"\tuser clicks Para Yatirma : public void clickParaYatýr()"}
+{"logLevel":"debug","message":"\tTutar alaný týklanýr. : public void clickTutar()"}
+{"logLevel":"debug","message":"\tTurn Back : public void turnBack()"}
+{"logLevel":"debug","message":"\t{} saniye bekle : public void waitOneSec(long time) throws InterruptedException"}
+{"logLevel":"debug","message":"\tTutar girilir. : public void sendTutarBox()"}
+{"logLevel":"debug","message":"\tAktivasyonsuz giris butonuna týklanýr. : public void clickBtn()"}
+{"logLevel":"debug","message":"\tAçýklama girilir : public void sendAciklamaA()"}
+{"logLevel":"debug","message":"\tOnaylandý mý kontrol eder. : public void checkIsVisible()"}
+{"logLevel":"debug","message":"\tOnayla butonuna týklanýr. : public void clickOn()"}
+{"logLevel":"debug","message":"\tVadesiz hesaplardan seçim yapýlýr. : public void clickVadHesap()"}
+{"logLevel":"debug","message":"\tYatýrým hesaplarýndan biri týklanýr. : public void clickYatHesap()"}
+Aug 24, 2022 11:23:45 AM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+{"logLevel":"debug","message":"Executing 'Aktivasyonsuz giris butonuna týklanýr.' using 'class test.LoginPageTest.clickBtn"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class base.BaseTest.waitOneSec"}
+{"logLevel":"debug","message":"Executing 'Kullanýcý no girilir' using 'class test.LoginPageTest.fillPasswordField"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class base.BaseTest.waitOneSec"}
+{"logLevel":"debug","message":"Executing 'Devam butonu týklandý.' using 'class test.LoginPageTest.clickDevamBtn"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class base.BaseTest.waitOneSec"}
+{"logLevel":"debug","message":"Executing 'User Clicks Tum Islemler Tab' using 'class test.MainPageTest.clickTumIslemler"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class base.BaseTest.waitOneSec"}
+{"logLevel":"debug","message":"Executing 'user clicks Yatirim menu' using 'class test.TumIslemlerMenuTest.clickYatýrým"}
+{"logLevel":"debug","message":"Executing '{} saniye bekle' using 'class base.BaseTest.waitOneSec"}
+{"logLevel":"debug","message":"Executing 'user clicks Para Yatirma' using 'class test.YatirimMenuTest.clickParaYatýr"}
+{"logLevel":"debug","message":"Killing Java runner..."}
+{"logLevel":"debug","message":"Stopping execution pool..."}
+{"logLevel":"debug","message":"Shutting down grpc server..."}
+{"logLevel":"debug","message":"Runner killed gracefully."}

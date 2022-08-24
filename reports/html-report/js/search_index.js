@@ -1,0 +1,1 @@
+var index = {"Tags":{},"Specs":{"VakifBank Mobile Test":["specs/final.html"]}};

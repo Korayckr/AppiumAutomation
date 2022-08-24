@@ -1,0 +1,25 @@
+
+# Case1
+* Aktivasyonsuz giris butonuna tıklanır.
+* "1" saniye bekle
+* Kullanıcı no girilir
+* "1" saniye bekle
+* Devam butonu tıklandı.
+* "1" saniye bekle
+* User Clicks Tum Islemler Tab
+* "1" saniye bekle
+* user clicks Yatirim menu
+* "1" saniye bekle
+* user clicks Para Yatirma
+* "1" saniye bekle
+* Tutar alanı tıklanır.
+* "1" saniye bekle
+* Tutar girilir.
+* "1" saniye bekle
+* Açıklama girilir
+* "1" saniye bekle
+* Devam butonu tıklanır.
+* "1" saniye bekle
+* Onayla butonuna tıklanır.
+* "1" saniye bekle
+* Onaylandı mı kontrol eder.
